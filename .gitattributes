@@ -1,0 +1,5 @@
+*.h linguist-language=C
+
+*.c linguist-language=C
+
+*.md linguist-documentation
