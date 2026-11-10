@@ -1,0 +1,12 @@
+/build/
+build*/
+/tests/
+/tools/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+.vs/
+*.raw
+eagle_viewer.ini
